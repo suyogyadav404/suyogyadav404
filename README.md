@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, SQL and Power BI.**
 
-- 📫 How to reach me **yadavsuyog623@gmail.com**
+- 📫 Reach me at **yadavsuyog623@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
